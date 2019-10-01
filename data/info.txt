@@ -1,0 +1,1 @@
+The data files for this project are over 1gb in size. Therefore it is hard to upload them to git. They are available with the drop of an email to anirbanpal.wbut@gmail.com
