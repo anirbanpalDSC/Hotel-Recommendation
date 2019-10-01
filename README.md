@@ -1,9 +1,9 @@
 # Hotel-Recommendation
 Hotel Recommendation
 
-<img src="Images/BigMart.jpg" data-canonical-src="Images/BigMart.jpg" width="150" height="150" />
+<img src="images/hotel.png" data-canonical-src="images/hotel.png" width="150" height="300" />
 
-Predict the impact of other factors on sales of a particular product in a particular Big mart store. Through the analysis, I am planning to predict the impact of other factors on sales of a particular product in a particular store. The train file will be used to explore the data and train the model. The model will be applied on test data in the test file and model performance will be evaluated.
+All online travel agencies are scrambling to meet the Artificial Intelligence driven personalization standard set by Amazon and Netflix. In addition, the world of online travel has become a highly competitive space where brands try to capture our attention (and wallet) with recommending, comparing, matching, and sharing. For this assignment, we aim to create the optimal hotel recommendations for Expedia’s users that are searching for a hotel to book. For this assignment, you need to predict which “hotel cluster” the user is likely to book, given his (or her) search details.
 
 # Table of contents
 
@@ -25,12 +25,21 @@ These instructions will get you a copy of the project up and running on your loc
 To execute this project, you will need the following applications - 
 * Pythnon 3 (or Anaconda distribution with Python 3)
 * Jupyter or any other notebook
+* Following Python libraries:
+  * pandas
+  * pandas_profiling
+  * matplotlib
+  * seaborn
+  * numpy
+  * warnings
+  * datetime
+  * sklearn
 
-Anaconda distribution alone should be enough. Find it [here](https://www.anaconda.com/distribution/)
+Find Anaconda distribution [here](https://www.anaconda.com/distribution/)
 
 ### Installation
 [(Back to top)](#table-of-contents)
-This particular project does not require any installation other than the required softwares mentioned above.
+This particular project does not require any installation other than the required softwares and libraries mentioned above.
 
 ## Usage
 [(Back to top)](#table-of-contents)
@@ -45,7 +54,6 @@ This section will be updated as the project is developed.
 * Feature Engineering - done
 * Model Building - done
 * Model evaluation - done
-* Presentation and paper writing - done
 
 ## Versioning
 [(Back to top)](#table-of-contents)
